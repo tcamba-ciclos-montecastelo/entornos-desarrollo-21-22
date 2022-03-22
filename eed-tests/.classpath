@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/tce1/Downloads/byte-buddy-1.12.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tce1/Downloads/byte-buddy-agent-1.12.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tce1/Downloads/objenesis-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tce1/Downloads/assertj-core-3.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tce1/Downloads/mockito-junit-jupiter-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tce1/Downloads/mockito-core-4.4.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
